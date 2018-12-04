@@ -1,6 +1,12 @@
-theme: jekyll-theme-minimal
+##theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+
 logo: assets/img/logo_black.png
 
 title: Carleton GeoSoc
 author: Carleton GeoSoc
 email: carletongeologysociety@gmail.com
+
+facebook:
+  username: CarletonGeoSoc
