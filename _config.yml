@@ -1,6 +1,7 @@
 ##theme: jekyll-theme-minimal
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default"
 
 logo: assets/img/logo_black.png
 
