@@ -3,6 +3,9 @@ theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
+plugins:
+  - jekyll-include-cache
+
 logo: assets/img/logo_black.png
 
 title: Carleton GeoSoc
