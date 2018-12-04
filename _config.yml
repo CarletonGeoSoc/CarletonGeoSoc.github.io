@@ -11,6 +11,13 @@ logo: assets/img/logo_black.png
 title: Carleton GeoSoc
 email: carletongeologysociety@gmail.com
 
+# Site Settings
+locale                   : "en-GB"
+title                    : "Carleton GeoSoc"
+title_separator          : "|"
+name                     : "Carleton GeoSoc"
+description              : "An amazing website."
+
 # Site Author
 author:
   name             : "Carleton GeoSoc"
