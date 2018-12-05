@@ -82,3 +82,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+include:
+  - _posts
+  - _pages
